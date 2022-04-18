@@ -1,62 +1,56 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
+# School Library
 
-# Project Name
+> Project for librarian of OOP University to record what books are in the library and who borrows them.
 
-> Description the project.
 
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- Ruby
 
-## Live Demo (if available)
+## Additional Tools
 
-[Live Demo Link](https://livedemo.com)
+- rubocop
 
+## `Getting Started`
 
-## Getting Started
+To get a local copy of this project:
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
+Clone this repository or download the Zip folder:
+```
+git clone https://github.com/BereketRetta/School_Library.git
+```
 
-
-To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
-
-### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
+To get started, In the root directory run:
+```
+gem install bundler
+```
+Then run:
+```
+bundle install
+```
 
 
+## `Tests`
+### To track linter errors locally follow these steps:  
 
-## Authors
+Track linter errors run:
+```
+rubocop
+```
 
-👤 **Author1**
+## Author
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+👤 **Yishak**
 
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [BereketRetta](https://github.com/BereketRetta)
+- LinkedIn: [@BereketRetta](https://www.linkedin.com/in/bereket-retta/)
 
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
+Feel free to check the [issues page](../issues).
 
 ## Show your support
 
@@ -64,9 +58,10 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
+- This project is part module 4 in the Microverse study program.
+- Thanks to the Microverse team for the great curriculum.
+- Thanks to Code Reviewers for the insightful feedback.
+- A great thanks to My coding partners, morning session team, and standup team Partners for their contributions.
 
 ## 📝 License
 
