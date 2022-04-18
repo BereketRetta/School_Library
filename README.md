@@ -41,7 +41,7 @@ rubocop
 
 ## Author
 
-👤 **Yishak**
+👤 **Bereket**
 
 - GitHub: [BereketRetta](https://github.com/BereketRetta)
 - LinkedIn: [@BereketRetta](https://www.linkedin.com/in/bereket-retta/)
