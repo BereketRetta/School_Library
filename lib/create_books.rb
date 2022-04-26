@@ -6,6 +6,7 @@ class CreateBook
     author = gets.chomp
     [title, author]
   end
+
   def create_a_book
     title, author = inputs_book
     book = Book.new(title, author)
@@ -14,4 +15,3 @@ class CreateBook
     book
   end
 end
- 
